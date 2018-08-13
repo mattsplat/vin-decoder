@@ -1,4 +1,6 @@
 <?php
+namespace VinDecode;
+
 class VinDecode
 {
     public $base_url = 'https://vpic.nhtsa.dot.gov/api/';

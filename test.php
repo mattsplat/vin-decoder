@@ -1,5 +1,10 @@
 <?php
-$url = 'https://vpic.nhtsa.dot.gov/api/vehicles/decodevin/1HGFA16538L065?format=json';
-$response = http_get($url, array("timeout"=>1), $info);
+require 'VinDecode.php';
 
-var_dump($info);
+$vin_decode = new VinDecode\VinDecode();
+
+$vin_decode->setVIN('4G2JB3249VB205377');
+$vin_decode->searchVIN();
+
+
+var_dump($vin_decode);
