@@ -1,0 +1,12 @@
+{
+    "name": "mattsplat/vin-decode",
+    "description": "Wrapper to get VIN information",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+
+            "VinDecode//": "src/"
+
+        }
+    }
+}
