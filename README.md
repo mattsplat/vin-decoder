@@ -1,6 +1,10 @@
 # vin-decoder
+### Install
+`composer require mattsplat/vin-decode`
 
 Uses National Highway Traffic Safety Administration's API to determine vehicle information
+
+#### Use
 
 ```
 $vin_decode = new VinDecode();
