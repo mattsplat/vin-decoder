@@ -1,0 +1,79 @@
+{
+  "Count": 195,
+  "Message": "Response returned successfully",
+  "SearchCriteria": "Vehicle Type: car",
+  "Results": [
+    {
+      "MakeId": 440,
+      "MakeName": "ASTON MARTIN",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 441,
+      "MakeName": "TESLA",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 442,
+      "MakeName": "JAGUAR",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 443,
+      "MakeName": "MASERATI",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 445,
+      "MakeName": "ROLLS-ROYCE",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 448,
+      "MakeName": "TOYOTA",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 452,
+      "MakeName": "BMW",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 454,
+      "MakeName": "BUGATTI",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 456,
+      "MakeName": "MINI",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 460,
+      "MakeName": "FORD",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 464,
+      "MakeName": "LINCOLN",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    }
+  ]
+}

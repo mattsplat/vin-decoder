@@ -1,0 +1,37 @@
+{
+  "Count": 5,
+  "Message": "Response returned successfully",
+  "SearchCriteria": "Make: mercedes",
+  "Results": [
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 2,
+      "VehicleTypeName": "Passenger Car"
+    },
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 3,
+      "VehicleTypeName": "Truck"
+    },
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 5,
+      "VehicleTypeName": "Bus"
+    },
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 7,
+      "VehicleTypeName": "Multipurpose Passenger Vehicle (MPV)"
+    },
+    {
+      "MakeId": 449,
+      "MakeName": "MERCEDES-BENZ",
+      "VehicleTypeId": 10,
+      "VehicleTypeName": "Incomplete Vehicle"
+    }
+  ]
+}

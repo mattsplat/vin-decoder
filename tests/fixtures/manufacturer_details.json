@@ -1,0 +1,57 @@
+{
+  "Count": 1,
+  "Message": "Response returned successfully",
+  "SearchCriteria": null,
+  "Results": [
+    {
+      "Address": "2-3, Toranomon 2-Chome",
+      "Address2": null,
+      "City": "Minato-Ku",
+      "ContactEmail": "kazutomo_sawamura@jp.honda",
+      "ContactFax": null,
+      "ContactPhone": "+81 80 4888 7109",
+      "Country": "JAPAN",
+      "DBAs": null,
+      "EquipmentItems": [],
+      "LastUpdated": "/Date(1781312583703-0400)/",
+      "ManufacturerTypes": [
+        {
+          "Name": "Completed Vehicle Manufacturer"
+        }
+      ],
+      "Mfr_CommonName": "Honda",
+      "Mfr_ID": 987,
+      "Mfr_Name": "HONDA MOTOR CO., LTD.",
+      "OtherManufacturerDetails": null,
+      "PostalCode": "105-8404",
+      "PrimaryProduct": null,
+      "PrincipalFirstName": "Toshihiro Mibe",
+      "PrincipalLastName": null,
+      "PrincipalPosition": "President & CEO",
+      "StateProvince": "Tokyo",
+      "SubmittedName": "Liza Copeland",
+      "SubmittedOn": "/Date(1750910400000-0400)/",
+      "SubmittedPosition": "Administratiive Assistant",
+      "VehicleTypes": [
+        {
+          "GVWRFrom": "Class 1A: 3,000 lb or less (1,360 kg or less)",
+          "GVWRTo": "Class 1: 6,000 lb or less (2,722 kg or less)",
+          "IsPrimary": false,
+          "Name": "Motorcycle"
+        },
+        {
+          "GVWRFrom": "Class 1B: 3,001 - 4,000 lb (1,360 - 1,814 kg)",
+          "GVWRTo": "Class 1: 6,000 lb or less (2,722 kg or less)",
+          "IsPrimary": false,
+          "Name": "Passenger Car"
+        },
+        {
+          "GVWRFrom": "Class 1: 6,000 lb or less (2,722 kg or less)",
+          "GVWRTo": "Class 2: 6,001 - 10,000 lb (2,722 - 4,536 kg)",
+          "IsPrimary": false,
+          "Name": "Multipurpose Passenger Vehicle (MPV)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,48 @@
 {
     "name": "mattsplat/vin-decode",
-    "description": "Wrapper to get VIN information",
-    "require": {},
+    "description": "PHP wrapper for the NHTSA vPIC vehicle API (VIN decoding, makes, models, manufacturers, WMI and more).",
+    "keywords": ["vin", "vin-decoder", "nhtsa", "vpic", "vehicle", "automotive", "car"],
+    "homepage": "https://github.com/mattsplat/vin-decoder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Coleman",
+            "email": "matthewjohncoleman@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mattsplat/vin-decoder/issues",
+        "source": "https://github.com/mattsplat/vin-decoder"
+    },
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5",
+        "phpstan/phpstan": "^2.1",
+        "laravel/pint": "^1.16"
+    },
     "autoload": {
         "psr-4": {
-
-            "VinDecode\\": "src/"
-
+            "Mattsplat\\VinDecode\\": "src/",
+            "VinDecode\\": "src/Legacy/"
         }
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mattsplat\\VinDecode\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "lint": "pint --test",
+        "format": "pint",
+        "analyse": "phpstan analyse"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }

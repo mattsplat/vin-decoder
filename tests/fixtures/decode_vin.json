@@ -1,0 +1,211 @@
+{
+  "Count": 140,
+  "Message": "Results returned successfully. NOTE: Any missing decoded values should be interpreted as NHTSA does not have data on the specific variable. Missing value should NOT be interpreted as an indication that a feature or technology is unavailable for a vehicle.",
+  "SearchCriteria": "VIN:5UXWX7C5*BA",
+  "Results": [
+    {
+      "Value": "6",
+      "ValueId": "6",
+      "Variable": "Error Code",
+      "VariableId": 143
+    },
+    {
+      "Value": "6 - Incomplete VIN",
+      "ValueId": "",
+      "Variable": "Error Text",
+      "VariableId": 191
+    },
+    {
+      "Value": "5UXWX7C5*BA",
+      "ValueId": "",
+      "Variable": "Vehicle Descriptor",
+      "VariableId": 196
+    },
+    {
+      "Value": "BMW",
+      "ValueId": "452",
+      "Variable": "Make",
+      "VariableId": 26
+    },
+    {
+      "Value": "BMW MANUFACTURER CORPORATION / BMW NORTH AMERICA",
+      "ValueId": "968",
+      "Variable": "Manufacturer Name",
+      "VariableId": 27
+    },
+    {
+      "Value": "X3",
+      "ValueId": "1719",
+      "Variable": "Model",
+      "VariableId": 28
+    },
+    {
+      "Value": "2011",
+      "ValueId": "",
+      "Variable": "Model Year",
+      "VariableId": 29
+    },
+    {
+      "Value": "MUNICH",
+      "ValueId": "",
+      "Variable": "Plant City",
+      "VariableId": 31
+    },
+    {
+      "Value": "xDrive35i",
+      "ValueId": "",
+      "Variable": "Trim",
+      "VariableId": 38
+    },
+    {
+      "Value": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+      "ValueId": "7",
+      "Variable": "Vehicle Type",
+      "VariableId": 39
+    },
+    {
+      "Value": "GERMANY",
+      "ValueId": "2",
+      "Variable": "Plant Country",
+      "VariableId": 75
+    },
+    {
+      "Value": "6",
+      "ValueId": "",
+      "Variable": "Engine Number of Cylinders",
+      "VariableId": 9
+    },
+    {
+      "Value": "2979.1682352",
+      "ValueId": "",
+      "Variable": "Displacement (CC)",
+      "VariableId": 11
+    },
+    {
+      "Value": "181.8",
+      "ValueId": "",
+      "Variable": "Displacement (CI)",
+      "VariableId": 12
+    },
+    {
+      "Value": "3.0",
+      "ValueId": "",
+      "Variable": "Displacement (L)",
+      "VariableId": 13
+    },
+    {
+      "Value": "Gasoline",
+      "ValueId": "4",
+      "Variable": "Fuel Type - Primary",
+      "VariableId": 24
+    },
+    {
+      "Value": "300",
+      "ValueId": "",
+      "Variable": "Engine Brake (hp) From",
+      "VariableId": 71
+    },
+    {
+      "Value": "Yes",
+      "ValueId": "1",
+      "Variable": "Pretensioner",
+      "VariableId": 78
+    },
+    {
+      "Value": "Manual",
+      "ValueId": "1",
+      "Variable": "Seat Belt Type",
+      "VariableId": 79
+    },
+    {
+      "Value": "Head Inflatable Restraint for Driver, Front Passenger, Rear Outboard Driver-side and Rear Outboard Passenger-side.  Knee Inflatable Restraint for Driver.  Pretensioners for Driver and Front Passenger.",
+      "ValueId": "",
+      "Variable": "Other Restraint System Info",
+      "VariableId": 121
+    },
+    {
+      "Value": "Direct",
+      "ValueId": "1",
+      "Variable": "Tire Pressure Monitoring System (TPMS) Type",
+      "VariableId": 168
+    },
+    {
+      "Value": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+      "ValueId": "7",
+      "Variable": "Body Class",
+      "VariableId": 5
+    },
+    {
+      "Value": "4",
+      "ValueId": "",
+      "Variable": "Doors",
+      "VariableId": 14
+    },
+    {
+      "Value": "AWD/All-Wheel Drive",
+      "ValueId": "3",
+      "Variable": "Drive Type",
+      "VariableId": 15
+    },
+    {
+      "Value": "Class 1D: 5,001 - 6,000 lb (2,268 - 2,722 kg)",
+      "ValueId": "13",
+      "Variable": "Gross Vehicle Weight Rating From",
+      "VariableId": 25
+    },
+    {
+      "Value": "1st Row (Driver and Passenger)",
+      "ValueId": "3",
+      "Variable": "Front Air Bag Locations",
+      "VariableId": 65
+    },
+    {
+      "Value": "1st Row (Driver and Passenger)",
+      "ValueId": "3",
+      "Variable": "Side Air Bag Locations",
+      "VariableId": 107
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Trailer Type Connection",
+      "VariableId": 116
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Trailer Body Type",
+      "VariableId": 117
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Bus Floor Configuration Type",
+      "VariableId": 148
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Bus Type",
+      "VariableId": 149
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Custom Motorcycle Type",
+      "VariableId": 151
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Motorcycle Suspension Type",
+      "VariableId": 152
+    },
+    {
+      "Value": "Not Applicable",
+      "ValueId": "0",
+      "Variable": "Motorcycle Chassis Type",
+      "VariableId": 153
+    }
+  ]
+}
