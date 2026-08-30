@@ -1,11 +1,23 @@
 <?php
-require 'src/VinDecode.php';
-use VinDecode\VinDecode;
 
-$vin_decode = new VinDecode();
+require __DIR__.'/vendor/autoload.php';
 
-$vin_decode->setVIN('4G2JB3249VB205377');
-$vin_decode->searchVIN();
+use Mattsplat\VinDecode\Vpic;
 
+$vpic = new Vpic();
 
-var_dump($vin_decode);
+// Decode a VIN into a single flat object.
+$vehicle = $vpic->decodeVinFlat('5UXWX7C5*BA', 2011);
+
+printf(
+    "%s %s %s (%s)\n",
+    $vehicle->modelYear(),
+    $vehicle->make(),
+    $vehicle->model(),
+    $vehicle->bodyClass(),
+);
+
+// List every model Honda has registered.
+foreach ($vpic->modelsForMake('Honda') as $model) {
+    echo $model->name, "\n";
+}

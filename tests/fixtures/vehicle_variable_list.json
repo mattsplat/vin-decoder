@@ -1,0 +1,112 @@
+{
+  "Count": 144,
+  "Message": "Results returned successfully",
+  "SearchCriteria": null,
+  "Results": [
+    {
+      "DataType": "string",
+      "Description": "<p>This field stores any other battery information that does not belong to any of the other battery related fields.</p>",
+      "GroupName": "Mechanical/Battery",
+      "ID": 1,
+      "Name": "Other Battery Info"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Battery type field stores the battery chemistry type for anode, cathode.</p>",
+      "GroupName": "Mechanical/Battery",
+      "ID": 2,
+      "Name": "Battery Type"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Bed type is the type of bed (the open back) used for pickup trucks. The common values are standard, short, long, extended.</p>",
+      "GroupName": "Exterior/Truck",
+      "ID": 3,
+      "Name": "Bed Type"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Cab type applies to both pickup truck and other medium- and heavy-duty trucks. The cab or cabin of a truck is the inside space in a truck where the driver is seated. For pickup trucks, the cab type is categorized by the combination number of doors and number of rows for seating. For medium- and heavy-duty trucks (MDHD), the cab type is categorized by the relative location of engine and cab.</p><p>For pickup trucks, there are four cab types.</p><ul><li>Regular: 2 door, 1 row of seats</li><li>Extra/Super/Quad/Double/King/Extended: 2 doors, 2 rows of seats</li><li>Crew/Super Crew/Crew Max: 4 doors, 2 rows of seats</li><li>Mega: 4 doors, 2 rows of seats (with a bigger cabin than crew cab type)</li></ul><p>For medium- and heavy-duty (MDHD) trucks, there are several categories as listed below.</p><ul><li>Cab Beside Engine</li><li>CAE: Cab Above Engine</li><li>CBE: Cab Behind Engine</li><li>COE: Cab Over Engine or Flat Nose: Driver sits on top of the front axle and engine</li><li>LCF: Low Cab Forward</li><li>Conventional: Driver sits behind the engine</li><li>Non-Tilt</li><li>Tilt</li></ul>",
+      "GroupName": "Exterior/Truck",
+      "ID": 4,
+      "Name": "Cab Type"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Body Class presents the body type based on 49 CFR 565.12(b): \"Body type means the general configuration or shape of a vehicle distinguished by such characteristics as the number of doors or windows, cargo-carrying features and the roofline (e.g., sedan, fastback, hatchback).\" Definitions are not provided for individual body types in the regulation.</p>",
+      "GroupName": "Exterior/Body",
+      "ID": 5,
+      "Name": "Body Class"
+    },
+    {
+      "DataType": "int",
+      "Description": "<p>This is a numerical field to store the number of cylinders in an engine. Common values for passenger cars are 4 or 6.</p>",
+      "GroupName": "Engine",
+      "ID": 9,
+      "Name": "Engine Number of Cylinders"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Destination Market is the market where the vehicle is intended to be sold.</p>",
+      "GroupName": "General",
+      "ID": 10,
+      "Name": "Destination Market"
+    },
+    {
+      "DataType": "decimal",
+      "Description": "<p>Engine displacement (in cubic centimeters) is the volume swept by all the pistons inside the cylinders of a reciprocating engine in a single movement from top dead center to bottom dead center.</p>",
+      "GroupName": "Engine",
+      "ID": 11,
+      "Name": "Displacement (CC)"
+    },
+    {
+      "DataType": "decimal",
+      "Description": "<p>Engine displacement (in cubic inches) is the volume swept by all the pistons inside the cylinders of a reciprocating engine in a single movement from top dead center to bottom dead center.</p>",
+      "GroupName": "Engine",
+      "ID": 12,
+      "Name": "Displacement (CI)"
+    },
+    {
+      "DataType": "decimal",
+      "Description": "<p>Engine displacement (in liters) is the volume swept by all the pistons inside the cylinders of a reciprocating engine in a single movement from top dead center to bottom dead center.</p>",
+      "GroupName": "Engine",
+      "ID": 13,
+      "Name": "Displacement (L)"
+    },
+    {
+      "DataType": "int",
+      "Description": "<p>This is a numerical field to store the number of doors on a vehicle.</p>",
+      "GroupName": "Exterior/Body",
+      "ID": 14,
+      "Name": "Doors"
+    },
+    {
+      "DataType": "lookup",
+      "Description": "<p>Drive type stores information about vehicle drivetrain configuration. The most common drive types for passenger cars, crossover vehicles, and pickup trucks are front-wheel drive (FWD), rear-wheel drive (RWD), all-wheel drive (AWD), and 4-wheel drive (4WD).</p>",
+      "GroupName": "Mechanical/Drivetrain",
+      "ID": 15,
+      "Name": "Drive Type"
+    },
+    {
+      "DataType": "int",
+      "Description": "<p>Engine stroke cycle is a numerical field for the number of strokes used by an internal combustion engine to complete a power cycle.</p>",
+      "GroupName": "Engine",
+      "ID": 17,
+      "Name": "Engine Stroke Cycles"
+    },
+    {
+      "DataType": "string",
+      "Description": "<p>Engine model is a name that a manufacturer applies to a family of engine.</p>",
+      "GroupName": "Engine",
+      "ID": 18,
+      "Name": "Engine Model"
+    },
+    {
+      "DataType": "decimal",
+      "Description": "<p>This field stores engine power in kilowatts (kW).</p>",
+      "GroupName": "Engine",
+      "ID": 21,
+      "Name": "Engine Power (kW)"
+    }
+  ]
+}

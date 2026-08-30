@@ -1,0 +1,117 @@
+{
+  "Count": 172,
+  "Message": "Results returned successfully",
+  "SearchCriteria": "Type: 565 | From Date: 1/1/2015 | To Date: 5/1/2015 | manufacturer: n/a",
+  "Results": [
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/30/2015",
+      "ManufacturerId": 987,
+      "ManufacturerName": "HONDA MOTOR CO., LTD.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10655",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/cf88fcd6-97e5-4b9a-bc6c-53f87eaf4ab3"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/29/2015",
+      "ManufacturerId": 5368,
+      "ManufacturerName": "FIRE PLUS, LLC.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10922",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/e678c552-ce71-4531-bcae-e7005f41548b"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/29/2015",
+      "ManufacturerId": 13712,
+      "ManufacturerName": "APLUS TRAILERS INC.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10932",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/34df749b-51d1-4621-8f2b-e761f71d1f4d"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/29/2015",
+      "ManufacturerId": 13777,
+      "ManufacturerName": "RIVER STEEL, INC.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10762",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/448414e8-8cfc-4c64-89f0-6b3600c7aa40"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/28/2015",
+      "ManufacturerId": 7176,
+      "ManufacturerName": "PAGANI SPA",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG12010",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/62fc9972-a3c6-4fea-9295-d7873dbf3589"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/27/2015",
+      "ManufacturerId": 1043,
+      "ManufacturerName": "MERCEDES-BENZ OF NORTH AMERICA, INC.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10625",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/94b9c15e-78d3-4663-94de-5190af15b865"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/27/2015",
+      "ManufacturerId": 1043,
+      "ManufacturerName": "MERCEDES-BENZ OF NORTH AMERICA, INC.",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10626",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/d0734054-3c45-48b3-89fa-7ccca0206bec"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/23/2015",
+      "ManufacturerId": 1152,
+      "ManufacturerName": "KAWASAKI MOTORS, LTD",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10618",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/06302467-a2d2-48ac-9e4f-c1df81b7695a"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/23/2015",
+      "ManufacturerId": 1152,
+      "ManufacturerName": "KAWASAKI MOTORS, LTD",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10606",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/543c49e3-473f-4197-b8a4-5405ab0d47d4"
+    },
+    {
+      "CoverLetterURL": "",
+      "LetterDate": "4/23/2015",
+      "ManufacturerId": 1152,
+      "ManufacturerName": "KAWASAKI MOTORS, LTD",
+      "ModelYearFrom": null,
+      "ModelYearTo": null,
+      "Name": "ORG10607",
+      "Type": "565",
+      "URL": "http://vpic.nhtsa.dot.gov/mid/home/displayfile/21c56294-ad95-4ffa-b49c-38265a215680"
+    }
+  ]
+}

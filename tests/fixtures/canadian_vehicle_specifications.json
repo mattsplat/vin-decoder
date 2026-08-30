@@ -1,0 +1,33 @@
+{
+  "Count": 2,
+  "Message": "Results returned successfully",
+  "SearchCriteria": "Year: 2011; Make: Acura; Units: Metric",
+  "Results": [
+    {
+      "Specs": [
+        { "Name": "Make", "Value": "ACURA" },
+        { "Name": "Model", "Value": "CSX" },
+        { "Name": "MakeId", "Value": "475" },
+        { "Name": "myear", "Value": "2011" },
+        { "Name": "OverallLength", "Value": "4590" },
+        { "Name": "OverallWidth", "Value": "1750" },
+        { "Name": "OverallHeight", "Value": "1440" },
+        { "Name": "Wheelbase", "Value": "2700" },
+        { "Name": "CurbWeight", "Value": "1364" }
+      ]
+    },
+    {
+      "Specs": [
+        { "Name": "Make", "Value": "ACURA" },
+        { "Name": "Model", "Value": "MDX" },
+        { "Name": "MakeId", "Value": "475" },
+        { "Name": "myear", "Value": "2011" },
+        { "Name": "OverallLength", "Value": "4863" },
+        { "Name": "OverallWidth", "Value": "1994" },
+        { "Name": "OverallHeight", "Value": "1732" },
+        { "Name": "Wheelbase", "Value": "2750" },
+        { "Name": "CurbWeight", "Value": "2046" }
+      ]
+    }
+  ]
+}

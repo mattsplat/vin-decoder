@@ -1,0 +1,59 @@
+{
+  "Count": 100,
+  "Message": "Response returned successfully",
+  "SearchCriteria": null,
+  "Results": [
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Toyota",
+      "Mfr_ID": 1090,
+      "Mfr_Name": "TOYOTA MOTOR MANUFACTURING, TEXAS, INC.",
+      "VehicleTypes": []
+    },
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Toyota",
+      "Mfr_ID": 1091,
+      "Mfr_Name": "TOYOTA MOTOR MANUFACTURING, NORTHERN KENTUCKY, INC.",
+      "VehicleTypes": []
+    },
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Thomas Grinding",
+      "Mfr_ID": 1092,
+      "Mfr_Name": "THOMAS GRINDING INC.",
+      "VehicleTypes": [
+        {
+          "IsPrimary": true,
+          "Name": "Trailer"
+        }
+      ]
+    },
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Morgan Trailers",
+      "Mfr_ID": 1095,
+      "Mfr_Name": "MORGAN TRAILERS, INC",
+      "VehicleTypes": [
+        {
+          "IsPrimary": true,
+          "Name": "Trailer"
+        }
+      ]
+    },
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Altec",
+      "Mfr_ID": 1096,
+      "Mfr_Name": "ALTEC ENVIRONMENTAL PRODUCTS, LLC",
+      "VehicleTypes": []
+    },
+    {
+      "Country": "UNITED STATES (USA)",
+      "Mfr_CommonName": "Isuzu",
+      "Mfr_ID": 1098,
+      "Mfr_Name": "ISUZU MANUFACTURING SERVICES OF AMERICA, INC.",
+      "VehicleTypes": []
+    }
+  ]
+}

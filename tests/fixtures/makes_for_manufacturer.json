@@ -1,0 +1,22 @@
+{
+  "Count": 3,
+  "Message": "Results returned successfully",
+  "SearchCriteria": "Manufacturer:987",
+  "Results": [
+    {
+      "Make_ID": 474,
+      "Make_Name": "HONDA",
+      "Mfr_Name": "HONDA MOTOR CO., LTD."
+    },
+    {
+      "Make_ID": 475,
+      "Make_Name": "ACURA",
+      "Mfr_Name": "HONDA MOTOR CO., LTD."
+    },
+    {
+      "Make_ID": 542,
+      "Make_Name": "ISUZU",
+      "Mfr_Name": "HONDA MOTOR CO., LTD."
+    }
+  ]
+}
